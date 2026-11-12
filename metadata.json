@@ -1,0 +1,6 @@
+{
+  "name": "NXT Blocks Coder",
+  "description": "Visual Scratch-style block programming studio for LEGO Mindstorms NXT 2.0 with Bluetooth connectivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
